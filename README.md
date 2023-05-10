@@ -1,6 +1,6 @@
 # PyCaret Tutorial
 
-You can read the **Turkish Instructions** about this workflow on [LinkedIn](). *(COMING SOON)*
+You can read the **Turkish Instructions** about this workflow on [LinkedIn](https://www.linkedin.com/posts/istanbul-data-science-academy_istdsa-b%C3%BClten-17-pycaret-activity-7061976637994614784-tv5N?utm_source=share&utm_medium=member_desktop).
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
